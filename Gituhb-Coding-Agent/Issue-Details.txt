@@ -1,0 +1,45 @@
+Issue Title: 
+Add MustBeImplemented method to CodeReview.ps1
+
+Issue Description:
+## Description
+Add a new empty method called `MustBeImplemented` to the PowerShell file located in the `Powershell-CodeReview` folder.
+
+## File Location
+`Powershell-CodeReview/CodeReview.ps1`
+
+## Requirements
+- Create an empty function named `MustBeImplemented`
+- Add it to the existing PowerShell file that contains the `Get-LargestNumber` function
+- Follow PowerShell function naming conventions and best practices
+- Include proper comment-based help documentation
+- Structure as a placeholder method for future implementation
+
+## Current File Context
+The file currently contains:
+- A `Get-LargestNumber` function that finds the largest number in an integer array
+- Basic parameter validation and error handling
+- Example usage section (currently empty)
+
+## Proposed Implementation
+The new method should be added as an empty function with:
+- Proper PowerShell function syntax
+- Comment-based help block
+- Parameter block (if applicable)
+- Placeholder implementation body
+
+## Acceptance Criteria
+- [ ] `MustBeImplemented` function is added to `CodeReview.ps1`
+- [ ] Function follows PowerShell best practices and naming conventions
+- [ ] Function includes proper comment-based help documentation
+- [ ] Function is structured as a clear placeholder for future implementation
+- [ ] Code is properly formatted and consistent with existing code style
+
+## Labels
+- `enhancement`
+- `powershell`
+- `placeholder-method`
+- `code-review`
+
+## Priority
+Low - This is a placeholder method for future development
