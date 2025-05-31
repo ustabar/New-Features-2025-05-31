@@ -1,0 +1,39 @@
+VS Code > Extensions > GitHub Copilot app modernization for Java
+// This file is part of the GitHub Copilot app modernization project for Java.
+// It is designed to help developers modernize their Java applications using AI-powered code suggestions.
+// The code below is a simple example of how to use GitHub Copilot to modernize a Java application.
+package com.example.appmodernization;
+import java.util.List;
+import java.util.ArrayList;
+import java.util.stream.Collectors;
+public class AppModernization {
+    public static void main(String[] args) {
+        List<String> names = new ArrayList<>();
+        names.add("Alice");
+        names.add("Bob");
+        names.add("Charlie");
+
+        // Modernize the code using streams
+        List<String> upperCaseNames = names.stream()
+            .map(String::toUpperCase)
+            .collect(Collectors.toList());
+
+        // Print the modernized list
+        upperCaseNames.forEach(System.out::println);
+    }
+}
+// This code demonstrates how to use Java streams to modernize a simple list processing task.
+// It converts a list of names to uppercase using a functional programming approach.
+// The use of streams and method references is a modern Java feature that enhances code readability and maintainability.
+// To run this code, ensure you have Java installed and set up in your development environment.
+// You can compile and run this code using any Java IDE or command line tools.
+// This code is a basic example and can be extended further to include more complex modern Java features such as lambdas, optional, and more.
+// For more advanced app modernization tasks, consider integrating with cloud services, microservices architecture, or containerization.
+// This code is a starting point for developers looking to modernize their Java applications.
+// For more information on app modernization, refer to the official documentation and resources available online.
+// This project is open source and contributions are welcome.
+// You can find the source code on GitHub and contribute to the project.
+// License: MIT License
+
+// PROMPT:
+// "Assess my Java code and suggest modernizations using GitHub Copilot."

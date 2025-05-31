@@ -1,0 +1,4 @@
+- Open Visual Studio
+- select the code and right click
+- choose "quick actions and refactorings"
+- select "implement with GitHub Copilot"

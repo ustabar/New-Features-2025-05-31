@@ -20,4 +20,3 @@ function Get-LargestNumber {
 }
 
 # Example usage
-$numbers = @(3, 5, 7, 2, 8)

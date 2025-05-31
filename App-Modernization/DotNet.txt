@@ -1,0 +1,4 @@
+Install the extension for Visual Studio:
+https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.GitHubCopilotUpgradeAgent
+
+Select the project and right click to "Upgrade with GitHub Copilot".

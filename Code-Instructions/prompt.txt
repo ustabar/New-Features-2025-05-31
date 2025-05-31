@@ -1,0 +1,3 @@
+Bir .NET Core tabanlı seyahat uygulaması üzerinde çalışıyorum. Uygulama, kullanıcıların seyahat lokasyonları aramasına ve rezervasyon yapmasına olanak tanıyor. Aşağıdaki yönergeyi kullanarak basit bir proje geliştir:
+
+Kullanıcıların bir şehirdeki popüler yerleri (örn. müzeler) listeleyebileceği bir özellik ekle. Bir backend API endpoint'i ve bir React bileşeni oluştur.
