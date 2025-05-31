@@ -18,3 +18,6 @@ function Get-LargestNumber {
     
     return $largest
 }
+
+# Example usage
+$numbers = @(3, 5, 7, 2, 8)
