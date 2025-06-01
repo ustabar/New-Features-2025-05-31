@@ -1,3 +1,5 @@
+https://github.blog/changelog/2025-05-19-github-copilot-app-modernization-for-java-now-in-public-preview/
+
 VS Code > Extensions > GitHub Copilot app modernization for Java
 // This file is part of the GitHub Copilot app modernization project for Java.
 // It is designed to help developers modernize their Java applications using AI-powered code suggestions.

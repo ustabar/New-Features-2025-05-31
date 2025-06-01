@@ -1,0 +1,6 @@
+The GitHub Copilot Coding Agent is in public preview, 
+not yet in General Availability (GA), as of the latest updates from May 2025. 
+It is available to Copilot Pro+ and Copilot Enterprise subscribers and requires 
+enabling in repository or organization settings. The agent can autonomously 
+handle tasks like coding, testing, and creating pull requests from GitHub Issues, 
+consuming premium requests and GitHub Actions minutes.

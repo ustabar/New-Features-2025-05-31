@@ -1,2 +1,7 @@
 https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/
+https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/
 
+https://github.com/ustabar/New-Features-2025-05-31/pull/2
+https://github.com/ustabar/New-Features-2025-05-31/pull/2/files
+
+https://github.com/settings/copilot/features

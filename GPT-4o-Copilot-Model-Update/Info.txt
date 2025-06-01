@@ -1,0 +1,5 @@
+GPT-4o Copilot has been updated with a new model version that provides more useful and timely suggestions.
+
+This week, we’ve upgraded the GPT-4o Copilot model for all code completion users.
+
+We’ve updated the GPT-4o Copilot model released in March to a newer model version. This new mid-trained version has a more recent knowledge cutoff of March 2025, provides more useful suggestions, and has been improved through reinforcement learning in response to user feedback.
